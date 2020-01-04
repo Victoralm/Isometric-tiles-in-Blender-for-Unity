@@ -1,6 +1,6 @@
 # Isometric tiles on Blender for Unity
 
-This is my attempting to standardize the procedure of creating 2D isometric tilesets on Blender (2.8x).
+This is an attempting to standardize mine procedure of creating 2D isometric tilesets on Blender (2.8x).
 This was based at the [Clint ballanger's](http://clintbellanger.net/articles/isometric_tiles/) and [GameFromScratch](https://www.gamefromscratch.com/post/2015/11/20/Creating-Isometric-Tiles-in-Blender.aspx) tutorials.
 
 The basic [.blend](resources/BaseIsometricTilesets.blend) file (made with Blender 2.81) and the reference images ([512px](resources/CubeTileBase_512.png), [768px](resources/CubeTileBase_768.png), [1024px](resources/CubeTileBase_1024.png)) can be found at the [resources](resources/) folder.
