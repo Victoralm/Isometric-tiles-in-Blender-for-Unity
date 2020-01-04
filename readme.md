@@ -2,7 +2,7 @@
 
 This is my attempting to standardize the procedure of creating isometric tilesets on Blender (2.8x).
 
-The basic [.blend](resources/BaseIsometricTilesets.blend) file (made with blender 2.81) and the reference images ([512px](resources/CubeTileBase_512.png), [768px](resources/CubeTileBase_768.png), [1024px](resources/CubeTileBase_1024.png)) can be found at the resources folder.
+The basic [.blend](resources/BaseIsometricTilesets.blend) file (made with blender 2.81) and the reference images ([512px](resources/CubeTileBase_512.png), [768px](resources/CubeTileBase_768.png), [1024px](resources/CubeTileBase_1024.png)) can be found at the [resources](resources/) folder.
 
 ______________
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **`Attention:`**
