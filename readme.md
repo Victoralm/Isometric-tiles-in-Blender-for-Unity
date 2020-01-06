@@ -32,7 +32,7 @@ ______________ -->
 ______________
 ![#ebde82](https://placehold.it/15/ebde82/000000?text=+) **`Attention:`**
 
-`I'm not using this camera anymore. All the renders will be done with "CamForCubes" camera. See` [Unity setup](#Unity-setup) `for more information about the correct positioning of the tiles on Unity.`
+`I'm not using this camera anymore. All the renders will be done with` [CamForCubes](#Camera-for-Cubes) `camera. See` [Unity setup](#Unity-setup) `for more information about the correct positioning of the tiles on Unity.`
 ______________
 
 | **Location**    |                                                           **Rotation** |
